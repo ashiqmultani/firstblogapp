@@ -29,9 +29,9 @@ function Home() {
       <Container>
         <div className="flex flex-wrap">
           <div className="p-2 w-full sm:w-1/2 lg:w-1/2 flex flex-col justify-evenly">
-            <h1 className="text-7xl font-bold text-left text-slate-100 shadow-black hover:text-gray-500">
+            <h1 className="text-7xl font-bold text-left text-slate-100  shadow-black hover:text-gray-500">
               Welcome to <br />
-              [Your Blog App Name]
+              ArticleHub
             </h1>
             <p className="text-5xl mt-12 font-bold text-left text-slate-100 shadow-black hover:text-gray-500">
               Start exploring, writing, and connecting today. Together, we
